@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background: url(/error.png);
+}
+
+
+p{
+    margin: 30px;
+   font-size: 30px;
+    text-align: center;
+}
+
+
+button{
+    background-color: rgb(4, 83, 188);
+    padding: 10px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin-left: 700px ;
+    border-radius: 18px;
+    color: #fff;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
